@@ -1,4 +1,4 @@
-name: gradlew build
+name: maven build
 
 on: [ workflow_dispatch ]
 
